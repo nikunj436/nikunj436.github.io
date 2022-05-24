@@ -35,8 +35,8 @@
 - local machine:- installed:- aws cli, ekctl(v1.21 used).
 <p>&nbsp;</p>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87404299/170044395-3995b892-78d1-4f6e-95c2-1b46327e0f38.png">
-<p>&nbsp;</p>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87404299/170044312-c2480aad-dba0-477b-ba1f-85f55452fd3a.png">
+<p>&nbsp;</p>
 
 ## k8s, Dockerfile, Docker-compose yaml files
 - please find a k8s folder for kubernetes yaml files in my repo.
