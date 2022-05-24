@@ -30,7 +30,7 @@
 - above snapshot - Rolling update:- one by one new pod is being created and old pod is being deleted 
 
 
-## Amazon EKS (using consol)
+## Amazon EKS (using console)
 - dependencies:- node group(4 worker node t3.micro), respective IAM, vpc, root or administration(user).
 - local machine:- installed:- aws cli, ekctl(v1.21 used).
 <p>&nbsp;</p>
