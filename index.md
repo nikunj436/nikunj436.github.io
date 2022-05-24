@@ -25,7 +25,7 @@
 <p>&nbsp;</p>
  <img width="500" alt="Screenshot 2022-05-24 183029" src="https://user-images.githubusercontent.com/87404299/170041075-ad2a3948-8d20-48df-b9b6-70e5987737a1.png">
 <p>&nbsp;</p>
-- above snapshot - Rolling update:- one by one new pod is being created and old pod is being delted 
+- above snapshot - Rolling update:- one by one new pod is being created and old pod is being deleted 
 
 
 ## Amazon EKS (using consol)
