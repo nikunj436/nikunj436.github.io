@@ -1,6 +1,6 @@
 
 # py_aws mini-project overview (flask web framwork with mongodb)
-## - Nikunj Rabadiya 
+## - Nikunj Rabadiya | [Linkedin](http://www.linkedin.com/in/nikunj-rabadiya)
 ###  - aws EKS (Kubernetes),Kubernetes Docker, Docker-Compose, Jenkins Pipeline (declarative syntax Jenkinsfile)  
 
 - git repo: - https://github.com/nikunj436/py_aws or [click here](https://github.com/nikunj436/py_aws)
