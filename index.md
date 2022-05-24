@@ -37,14 +37,14 @@
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87404299/170044312-c2480aad-dba0-477b-ba1f-85f55452fd3a.png">
 
 ## k8s, Dockerfile, Docker-compose yaml files
-- please find a k8s folder for kubernetes in my repo
-- Dockerfile used to containerization and pushed to docker hub so it can act as k8s deployment image.
-- Docker-compose only used on my local machine for sack of completion
+- please find a k8s folder for kubernetes yaml files in my repo.
+- Dockerfile used to containerization and pushed to docker hub so it can act as k8s webapp deployment image.
+- Docker-compose only used on my local machine for sack of completion.
 
 ## web app overview
-- mondodb used for database
-- a simple flask web-form accepting name and it's get stored in mongodb database
-- Please find below snapshots
+- mondodb used for database.
+- a simple flask web-form accepting name and it's get stored in mongodb database.
+- Please find below snapshots.
 
 <p>&nbsp;</p>
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/87404299/170046631-d7ef7344-6e47-4e3e-a000-9bb69981195b.png">
