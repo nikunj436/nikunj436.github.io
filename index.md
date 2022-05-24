@@ -4,7 +4,7 @@
 ###  - aws EKS (Kubernetes), Docker, Docker-Compose, Jenkins Pipeline (declarative syntax Jenkinsfile)  
 
 - git repo: - https://github.com/nikunj436/py_aws or [click here](https://github.com/nikunj436/py_aws)
-- webapp link:- https://bit.ly/3zbGOrx or [click here](https://bit.ly/3zbGOrx)
+- aws EKS cluster webapp link:- https://bit.ly/3zbGOrx or [click here](https://bit.ly/3zbGOrx)
 - Deleting Eks cluster soon cause it incurs charges
 # Let's go backwards with project. (as it created) 
 
