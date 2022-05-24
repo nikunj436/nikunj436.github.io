@@ -29,7 +29,7 @@
 
 
 ## Amazon EKS (using consol)
-- dependencies:- node group(4 t3.micro), respective IAM, vpc, root or administration(user)
+- dependencies:- node group(4 worker node t3.micro), respective IAM, vpc, root or administration(user)
 - local machine:- installed:- aws cli, ekctl(v1.21 used)
 <p>&nbsp;</p>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87404299/170044395-3995b892-78d1-4f6e-95c2-1b46327e0f38.png">
