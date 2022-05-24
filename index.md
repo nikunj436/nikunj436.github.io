@@ -6,16 +6,18 @@
 - git repo: - https://github.com/nikunj436/py_aws or [click here](https://github.com/nikunj436/py_aws)
 - aws EKS cluster webapp link:- https://bit.ly/3zbGOrx or [click here](https://bit.ly/3zbGOrx)
 - Deleting Eks cluster soon cause it incurs charges
-# Let's go backwards with project. (as it created) 
+
+
+# Let's go backwards with project (as it created) .
 
 ## Jenkins Pipeline
 
-- amazon Ec2 ubuntu instance created with addition port 8080(Jenkins default port)
-- dependencies installed -> openjdk 11, docker, jenkins 
+- amazon Ec2 ubuntu instance created with addition port 8080(Jenkins default port).
+- dependencies installed -> openjdk 11, docker, jenkins.
 - sudo su - jenkins 
-- aws cli, ekctl(v 1.21 used), cluster config file fetched 
+- aws cli, ekctl(v 1.21 used), cluster config file fetched. 
 - Jenkinsfile declarative syntax used. Please check my repo.
-- see below snapshot how "stage area" actually turns out 
+- see below snapshot how "stage area" actually turns out. 
 
 <p>&nbsp;</p>
  <img width="500" alt="image" src="https://user-images.githubusercontent.com/87404299/170044918-c17bdce4-8f4f-4efa-bd5d-b71325107bfc.png">
@@ -29,8 +31,8 @@
 
 
 ## Amazon EKS (using consol)
-- dependencies:- node group(4 worker node t3.micro), respective IAM, vpc, root or administration(user)
-- local machine:- installed:- aws cli, ekctl(v1.21 used)
+- dependencies:- node group(4 worker node t3.micro), respective IAM, vpc, root or administration(user).
+- local machine:- installed:- aws cli, ekctl(v1.21 used).
 <p>&nbsp;</p>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87404299/170044395-3995b892-78d1-4f6e-95c2-1b46327e0f38.png">
 <p>&nbsp;</p>
